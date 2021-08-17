@@ -1,15 +1,15 @@
 {
     "songs":[
       {
-        "json":"https://github.com/tuan05122001/playlist/blob/main/data/Floating.lrc",
+        "json":"https://raw.githubusercontent.com/tuan05122001/playlist/main/data/Floating.lrc",
         "audio":"Floating.mp3"
       },
        {
-        "json":"https://github.com/tuan05122001/playlist/blob/main/data/Everything_I_Need.lrc",
+        "json":"https://raw.githubusercontent.com/tuan05122001/playlist/main/data/Everything_I_Need.lrc",
         "audio":"Everything_I_Need.mp3"
       },
        {
-        "json":"https://github.com/tuan05122001/playlist/blob/main/data/Roar.lrc",
+        "json":"https://raw.githubusercontent.com/tuan05122001/playlist/main/data/Roar.lrc",
         "audio":"Roar.mp3"
       },
        {
