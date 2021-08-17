@@ -2,27 +2,27 @@
     "songs":[
       {
         "json":"https://github.com/tuan05122001/playlist/blob/main/data/Floating.lrc",
-        "audio":"https://github.com/tuan05122001/playlist/blob/main/music/Floating.mp3"
+        "audio":"Floating.mp3"
       },
        {
         "json":"https://github.com/tuan05122001/playlist/blob/main/data/Everything_I_Need.lrc",
-        "audio":"https://github.com/tuan05122001/playlist/blob/main/music/Everything_I_Need.mp3"
+        "audio":"Everything_I_Need.mp3"
       },
        {
         "json":"https://github.com/tuan05122001/playlist/blob/main/data/Roar.lrc",
-        "audio":"https://github.com/tuan05122001/playlist/blob/main/music/Roar.mp3"
+        "audio":"Roar.mp3"
       },
        {
         "json":"",
-        "audio":"https://github.com/tuan05122001/playlist/blob/main/music/Two_Steps_From_Hell.mp3"
+        "audio":"Two_Steps_From_Hell.mp3"
       },
        {
         "json":"",
-        "audio":"https://github.com/tuan05122001/playlist/blob/main/music/Despacito.mp3"
+        "audio":"Despacito.mp3"
       },
       {
         "json":"",
-        "audio":"https://github.com/tuan05122001/playlist/blob/main/music/Sign.mp3"
+        "audio":"Sign.mp3"
       }
     ]
   }
